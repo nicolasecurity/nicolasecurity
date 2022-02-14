@@ -2,9 +2,9 @@
   <strong>👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, e sou um desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!</strong>
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=nicolasecurity&theme=highcontrast&show_icons=true)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=nicolasecurity&theme=dracula&show_icons=true)](https://github.com/iuricode/)
 
-[![nicolasecurity](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasecurity&hide=html&layout=compact&theme=highcontrast)](https://github.com/iuricode/)
+[![nicolasecurity](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasecurity&hide=html&layout=compact&theme=dracula)](https://github.com/iuricode/)
 
 <p align="left">
   🦄 Linguagens:
