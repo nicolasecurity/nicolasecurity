@@ -38,13 +38,13 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/securityn1colas/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/securityn1colas/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/nicolasecurity" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
  
-  <a href=# alt="site">
+  <a href="https://www.nicolasecurity.dev/" alt="site">
   <img src="https://img.shields.io/badge/WordPress-006E93?style=flat-square&logo=wordpress&logoColor=white&link=https://www.nicolasecurity.dev/"/></a>
 
 </p>  
