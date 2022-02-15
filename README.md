@@ -7,7 +7,7 @@
 [![nicolasecurity](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasecurity&hide=html&layout=compact&theme=dracula)](https://github.com/iuricode/)
 
 <p align="left">
-  🦄 Linguagens:
+  <strong>💻 Linguagens: </strong>
 </p>
 
 <a href=# alt="html">
@@ -34,7 +34,7 @@
 <br>
 
 <p align="left">
-  💌 Deseja entrar em contato comigo? Então aqui vai alguns links! ⤵️
+  <strong> 💌 Deseja entrar em contato comigo? Então aqui vai alguns links! ⤵️ </strong>
 </p>
 
 <p align="left">
