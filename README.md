@@ -1,5 +1,5 @@
 <p align="left"> 
-  <strong>👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, e sou um desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!</strong>
+  <strong>👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, um Desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!</strong>
 </p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=nicolasecurity&theme=dracula&show_icons=true)](https://github.com/iuricode/)
