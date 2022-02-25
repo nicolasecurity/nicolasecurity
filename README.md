@@ -2,11 +2,10 @@
 ### 👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, um Desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!
 
 
-#### 📂 Você pode acessar o meu portfólio através desse link -> https://nicolasecurity.github.io/Portfolio/
+- 📂 Você pode acessar o meu portfólio através desse link -> https://nicolasecurity.github.io/Portfolio/
 
-[![card](https://github-readme-stats.vercel.app/api?username=nicolasecurity&theme=default&show_icons=true)](https://github.com/nicolasecurity/)
+<br>
 
-[![nicolasecurity](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasecurity&hide=html&layout=compact&theme=default)](https://github.com/nicolasecurity/)
 
 <p align="left">
   <strong>💻 Linguagens: </strong>
@@ -34,7 +33,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 <br>
-
+<br>
 <p align="left">
   <strong> 💌 Deseja entrar em contato comigo? Então aqui vai alguns links! ⤵️ </strong>
 </p>
@@ -47,6 +46,10 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
  
   <a href="https://www.nicolasecurity.dev/" alt="site">
-  <img src="https://img.shields.io/badge/WordPress-006E93?style=flat-square&logo=wordpress&logoColor=white&link=https://www.nicolasecurity.dev/"/></a>
+  <img src="https://img.shields.io/badge/WordPress-006E93?style=flat-square&logo=wordpress&logoColor=white&link=https://nicolasecurity.github.io/Portfolio/"/></a>
 
 </p>  
+
+[![card](https://github-readme-stats.vercel.app/api?username=nicolasecurity&theme=default&show_icons=true)](https://github.com/nicolasecurity/)
+
+<!-- [![nicolasecurity](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasecurity&hide=html&layout=compact&theme=default)](https://github.com/nicolasecurity/)
