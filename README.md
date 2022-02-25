@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <strong>💻 Linguagens: </strong>
+  <strong>💻 Tecnologias: </strong>
 </p>
 
 <a href=# alt="html">
