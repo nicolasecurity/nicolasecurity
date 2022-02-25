@@ -1,6 +1,6 @@
-<p align="left"> 
-  <strong>👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, um Desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!</strong>
-</p>
+
+### 👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, um Desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!
+
 
 ### 📂 Você pode acessar o meu portfólio através desse link -> https://nicolasecurity.github.io/Portfolio/
 
