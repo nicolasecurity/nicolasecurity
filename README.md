@@ -1,87 +1,87 @@
+_<h3 align="center">🎉 Hello, I'm Nicolas, a Front-End developer residing in Rio Grande do Sul in Brazil, welcome to my profile!</h3>_
+<br>
+<div align="center">
+  <h4> 📌 You can access my portfolio by clicking the button below. </h4>
+  <a href=https://nicolasecurity.github.io/Portfolio/>
+  <img align="center" src="https://img.shields.io/badge/portfolio-1C1C1C?style=for-the-badge&logo=&logoColor=00FFFF"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <h2>Techs</h2>
+<img align="center" src="https://img.shields.io/badge/HTML-1C1C1C?style=for-the-badge&logo=html5&logoColor=00FFFF"/>
 
-### 👋 Olá, seja bem vindo ao meu perfil! Eu sou o Nicolas, um Desenvolvedor Front-End, atualmente estou me aprofundando em JavaScript e suas tecnologias/frameworks, sinta-se em casa!
+<img align="center" src="https://img.shields.io/badge/css-1C1C1C?style=for-the-badge&logo=css3&logoColor=00FFFF"/>
 
+<img align="center" src="https://img.shields.io/badge/javascript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=00FFFF"/>
 
-- 📂 Você pode acessar o meu portfólio através desse link -> https://nicolasecurity.github.io/Portfolio/
+<img align="center" src="https://img.shields.io/badge/sass-1C1C1C?style=for-the-badge&logo=sass&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/bootstrap-1C1C1C?style=for-the-badge&logo=bootstrap&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/node.js-1C1C1C?style=for-the-badge&logo=node.js&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/react-1C1C1C?style=for-the-badge&logo=react&logoColor=00FFFF"/>
+  
+<img align="center" src="https://img.shields.io/badge/jquery-1C1C1C?style=for-the-badge&logo=jquery&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/tailwind_css-1C1C1C?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF"/>
+  
+<img align="center" src="https://img.shields.io/badge/styled_components-1C1C1C?style=for-the-badge&logo=styledcomponents&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/router-1C1C1C?style=for-the-badge&logo=react-router&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/mysql-1C1C1C?style=for-the-badge&logo=mysql&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/next.js-1C1C1C?style=for-the-badge&logo=next.js&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/firebase-1C1C1C?style=for-the-badge&logo=firebase&logoColor=00FFFF"/>
+
+<img align="center" src="https://img.shields.io/badge/git-1C1C1C?style=for-the-badge&logo=git&logoColor=00FFFF"/>
+</div>
+<br>
+<div align="center">
+<h2> Tools </h2>
+<img align="center" src="https://img.shields.io/badge/visual_studio-1C1C1C?style=for-the-badge&logo=visualstudio&logoColor=00FFFF"/>
+<img align="center" src="https://img.shields.io/badge/sublime-1C1C1C?style=for-the-badge&logo=sublimetext&logoColor=00FFFF"/>
+<img align="center" src="https://img.shields.io/badge/linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=00FFFF"/>
+<img align="center" src="https://img.shields.io/badge/kali-1C1C1C?style=for-the-badge&logo=kalilinux&logoColor=00FFFF"/>
+<img align="center" src="https://img.shields.io/badge/aws-1C1C1C?style=for-the-badge&logo=amazon&logoColor=00FFFF"/>
+<img align="center" src="https://img.shields.io/badge/vercel-1C1C1C?style=for-the-badge&logo=vercel&logoColor=00FFFF"/>
+  <img align="center" src="https://img.shields.io/badge/heroku-1C1C1C?style=for-the-badge&logo=heroku&logoColor=00FFFF"/>
+    <img align="center" src="https://img.shields.io/badge/replit-1C1C1C?style=for-the-badge&logo=replit&logoColor=00FFFF"/>
+
+</div>
 
 <br>
-
-
-<p align="left">
-  <strong>💻 Tecnologias: </strong>
+<h2 align="center">Social</h3>
+<p align="center">
+  <a href="linkedin.com/in/securityn1colas/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/linkedin-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://instagram.com/nicolasecurity/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://discordapp.com/users/484088238403878912">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+  </a>
+  <a href="https://steamcommunity.com/id/satanking">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Steam-1C1C1C?style=for-the-badge&logo=steam&logoColor=00FFFF"
+  </a>
+  <a href="https://soundcloud.com/worstxv">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Soundcloud-1C1C1C?style=for-the-badge&logo=soundcloud&logoColor=00FFFF"
+    />
+  </a>
 </p>
-
-<a href=# alt="html">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-
-<a href=# alt="css">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-
-<a href=# alt="js">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-
-<a href=# alt="sass">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
-
-<a href=# alt="php">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-
-<a href=# alt="bootstrap">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-
-<a href=# alt="python">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-
-<a href=# alt="nodejs">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-
-<a href=# alt="typescript">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-
-<a href=# alt="react">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-
-<a href=# alt="tailwindcss">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-
-<a href=# alt="styledcomponents">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
-
-<a href=# alt="reactrouter">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
-
-<a href=# alt="mysql">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
-<a href=# alt="nextjs">
-<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/></a>
-
-<a href=# alt="firebase">
-<img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/></a>
-
-<a href=# alt="mysql">
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></a>
-
-
-
-<br>
-<br>
-<p align="left">
-  <strong> 💌 Deseja entrar em contato comigo? Então aqui vai alguns links! ⤵️ </strong>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/securityn1colas/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/securityn1colas/" /></a>
-
-  <a href="https://www.instagram.com/nicolasecurity" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
- 
-  <a href="https://www.nicolasecurity.dev/" alt="site">
-  <img src="https://img.shields.io/badge/WordPress-006E93?style=flat-square&logo=wordpress&logoColor=white&link=https://nicolasecurity.github.io/Portfolio/"/></a>
-
-</p>  
-
-[![card](https://github-readme-stats.vercel.app/api?username=nicolasecurity&theme=default&show_icons=true)](https://github.com/nicolasecurity/)
-
-<!-- [![nicolasecurity](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasecurity&hide=html&layout=compact&theme=default)](https://github.com/nicolasecurity/)
